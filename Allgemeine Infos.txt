@@ -1,0 +1,8 @@
+Relevante Links
+
+Folienmaster: https://docs.google.com/presentation/d/1oCnoeKJMKMkU1mSnhBOZ8jdCBnJg2Pkq7xlpcyptWs8/edit?usp=sharing 
+
+Tilman Folien:
+
+- https://github.com/MisterXY89/intro-to-python
+- https://colab.research.google.com/drive/1BTUntBM1sxrl_HJc41kc3H_uBT_hzwAA?usp=sharing 
